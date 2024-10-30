@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\flıpyy_bırd_proje_2\flıpyy_bırd_proje_2\bin\Debug\flıpyy_bırd_proje_2.exe.config
+C:\Users\Administrator\source\repos\flıpyy_bırd_proje_2\flıpyy_bırd_proje_2\bin\Debug\flıpyy_bırd_proje_2.exe
+C:\Users\Administrator\source\repos\flıpyy_bırd_proje_2\flıpyy_bırd_proje_2\bin\Debug\flıpyy_bırd_proje_2.pdb
+C:\Users\Administrator\source\repos\flıpyy_bırd_proje_2\flıpyy_bırd_proje_2\obj\Debug\flıpyy_bırd_proje_2.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\flıpyy_bırd_proje_2\flıpyy_bırd_proje_2\obj\Debug\flıpyy_bırd_proje_2.Form1.resources
+C:\Users\Administrator\source\repos\flıpyy_bırd_proje_2\flıpyy_bırd_proje_2\obj\Debug\flıpyy_bırd_proje_2.Properties.Resources.resources
+C:\Users\Administrator\source\repos\flıpyy_bırd_proje_2\flıpyy_bırd_proje_2\obj\Debug\flıpyy_bırd_proje_2.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\flıpyy_bırd_proje_2\flıpyy_bırd_proje_2\obj\Debug\flıpyy_bırd_proje_2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\flıpyy_bırd_proje_2\flıpyy_bırd_proje_2\obj\Debug\flıpyy_bırd_proje_2.exe
+C:\Users\Administrator\source\repos\flıpyy_bırd_proje_2\flıpyy_bırd_proje_2\obj\Debug\flıpyy_bırd_proje_2.pdb
